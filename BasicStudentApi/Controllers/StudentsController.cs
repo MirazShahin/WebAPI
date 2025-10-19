@@ -11,7 +11,7 @@ namespace BasicStudentApi.Controllers
     {
         public static List<Student> student_info = new List<Student>
         {
-            new Student{id = "22235103117", Name = "Md Miraz Hossain Shahin", Intake = 51, Mail = "abc@gmail.com", contactNumber = "12345678901"},
+            new Student{id = "22235103117", Name = "Md Miraz Hossain Shahin V2", Intake = 51, Mail = "abc@gmail.com", contactNumber = "12345678901"},
             new Student{id = "22235103118", Name = "Md Arif Khan", Intake = 51, Mail = "efg@gmail.com", contactNumber = "12345678906"},
             new Student{id = "22235103119", Name = "ancdef", Intake = 51, Mail = "xyq@gmail.com", contactNumber = "12345678905"},
             new Student{id = "22235103120", Name = "abcjasbdcfgh", Intake = 51, Mail = "efg@gmail.com", contactNumber = "12345678904"},
