@@ -1,19 +1,6 @@
-# Visual Studio files
 .vs/
-*.user
-*.suo
-
-# Build directories
 bin/
 obj/
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
-
-# Others
-node_modules/
-.env
+*.db
+*.vsidx
+*.cache
